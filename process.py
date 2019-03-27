@@ -4,6 +4,7 @@
 import boto3
 import json
 import sys
+import json
 
 
 class VideoDetect:
@@ -14,6 +15,16 @@ class VideoDetect:
     topicArn = ''
     bucket = ''
     video = ''
+
+    with open('configuration.json') as json_file:  
+        data = json.load(json_file)
+        jobId = data['jobId']
+        rek = boto3.client(data['rek'])
+        queueUrl = data['queueUrl']
+        roleArn = data['roleArn']
+        topicArn = data['topicArn']
+        bucket = data['bucket']
+        video = data['video']
 
     def main(self):
 
