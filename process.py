@@ -85,7 +85,7 @@ class VideoDetect:
             response = self.rek.get_label_detection(JobId=jobId,
                                                     MaxResults=maxResults,
                                                     NextToken=paginationToken,
-                                                    SortBy='TIMESTAMP')
+                                                    SortBy='INDEX')
 
             print(response['VideoMetadata']['Codec'])
             print(str(response['VideoMetadata']['DurationMillis']))
@@ -139,6 +139,7 @@ class VideoDetect:
 
             for personDetection in response['Persons']:
                 print('Index: ' + str(personDetection['Person']['Index']))
+                print(str(personDetection['Person']))
                 print('Timestamp: ' + str(personDetection['Timestamp']))
                 print()
 

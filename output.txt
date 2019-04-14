@@ -1,0 +1,1713 @@
+Start Job Id: 9cc3955f4791b03701f3d36d90d345d7bcfab561bf79ca5288404500ca5f45da
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+......8473e731aaa02b9ecc82754fecb28d220ea872de8206bf8ffb7d4e22b5b842fa
+SUCCEEDED
+Job didn't match:8473e731aaa02b9ecc82754fecb28d220ea872de8206bf8ffb7d4e22b5b842fa : 9cc3955f4791b03701f3d36d90d345d7bcfab561bf79ca5288404500ca5f45da
+..............
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+....................
+......9cc3955f4791b03701f3d36d90d345d7bcfab561bf79ca5288404500ca5f45da
+SUCCEEDED
+Matching Job Found:9cc3955f4791b03701f3d36d90d345d7bcfab561bf79ca5288404500ca5f45da
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6551094651222229, 'Height': 0.11678832024335861, 'Width': 0.02500000037252903}}
+Timestamp: 0
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6532846689224243, 'Height': 0.11861313879489899, 'Width': 0.02578124962747097}}
+Timestamp: 41
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 125
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12226277589797974, 'Width': 0.02500000037252903}}
+Timestamp: 166
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 250
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6459854245185852, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 291
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6478102207183838, 'Height': 0.12591241300106049, 'Width': 0.02656250074505806}}
+Timestamp: 375
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12408759444952011, 'Width': 0.02656250074505806}}
+Timestamp: 458
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12226277589797974, 'Width': 0.02656250074505806}}
+Timestamp: 500
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6532846689224243, 'Height': 0.12226277589797974, 'Width': 0.02578124962747097}}
+Timestamp: 583
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6532846689224243, 'Height': 0.12226277589797974, 'Width': 0.02578124962747097}}
+Timestamp: 625
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6532846689224243, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 709
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 792
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 834
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02656250074505806}}
+Timestamp: 917
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02656250074505806}}
+Timestamp: 959
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 1042
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7109375, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 1126
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7109375, 'Top': 0.6514598727226257, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 1167
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 1251
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02656250074505806}}
+Timestamp: 1292
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.12773722410202026, 'Width': 0.02500000037252903}}
+Timestamp: 1376
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6459854245185852, 'Height': 0.131386861205101, 'Width': 0.02578124962747097}}
+Timestamp: 1459
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 1501
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 1584
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 1626
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 1710
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 1793
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 1835
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 1918
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12408759444952011, 'Width': 0.02500000037252903}}
+Timestamp: 1960
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02578124962747097}}
+Timestamp: 2043
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6478102207183838, 'Height': 0.131386861205101, 'Width': 0.02656250074505806}}
+Timestamp: 2127
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 2168
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 2252
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 2293
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6514598727226257, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 2377
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 2460
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 2502
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7109375, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 2585
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7109375, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02578124962747097}}
+Timestamp: 2627
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.1332116723060608, 'Width': 0.02578124962747097}}
+Timestamp: 2711
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 2794
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6514598727226257, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 2836
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 2919
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 2961
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 3044
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02578124962747097}}
+Timestamp: 3128
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02578124962747097}}
+Timestamp: 3169
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02578124962747097}}
+Timestamp: 3253
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 3294
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6514598727226257, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 3378
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 3461
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 3503
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02656250074505806}}
+Timestamp: 3586
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 3628
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7109375, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 3712
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7109375, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 3795
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6478102207183838, 'Height': 0.131386861205101, 'Width': 0.02578124962747097}}
+Timestamp: 3837
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6496350169181824, 'Height': 0.131386861205101, 'Width': 0.02578124962747097}}
+Timestamp: 3920
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 3962
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 4045
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02656250074505806}}
+Timestamp: 4129
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6514598727226257, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 4170
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 4254
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 4295
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7054687738418579, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 4379
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.706250011920929, 'Top': 0.6514598727226257, 'Height': 0.12226277589797974, 'Width': 0.02656250074505806}}
+Timestamp: 4462
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7054687738418579, 'Top': 0.6532846689224243, 'Height': 0.12226277589797974, 'Width': 0.02656250074505806}}
+Timestamp: 4504
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7054687738418579, 'Top': 0.6551094651222229, 'Height': 0.12043795734643936, 'Width': 0.02656250074505806}}
+Timestamp: 4587
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.706250011920929, 'Top': 0.6532846689224243, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 4629
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7054687738418579, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 4838
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7046874761581421, 'Top': 0.6496350169181824, 'Height': 0.131386861205101, 'Width': 0.02656250074505806}}
+Timestamp: 4921
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.703906238079071, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02812499925494194}}
+Timestamp: 4963
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7046874761581421, 'Top': 0.6551094651222229, 'Height': 0.13503649830818176, 'Width': 0.02421874925494194}}
+Timestamp: 5046
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.702343761920929, 'Top': 0.6587591171264648, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 5130
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7007812261581421, 'Top': 0.6569343209266663, 'Height': 0.12043795734643936, 'Width': 0.02890625037252903}}
+Timestamp: 5171
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7007812261581421, 'Top': 0.6587591171264648, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 5255
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7007812261581421, 'Top': 0.6587591171264648, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 5296
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.699999988079071, 'Top': 0.6569343209266663, 'Height': 0.131386861205101, 'Width': 0.02656250074505806}}
+Timestamp: 5380
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02812499925494194}}
+Timestamp: 5463
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02812499925494194}}
+Timestamp: 5505
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6532846689224243, 'Height': 0.12408759444952011, 'Width': 0.02734375}}
+Timestamp: 5588
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6532846689224243, 'Height': 0.12043795734643936, 'Width': 0.02656250074505806}}
+Timestamp: 5630
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6551094651222229, 'Height': 0.12226277589797974, 'Width': 0.02812499925494194}}
+Timestamp: 5714
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6551094651222229, 'Height': 0.12226277589797974, 'Width': 0.02812499925494194}}
+Timestamp: 5797
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6551094651222229, 'Height': 0.12226277589797974, 'Width': 0.02812499925494194}}
+Timestamp: 5839
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6551094651222229, 'Height': 0.11861313879489899, 'Width': 0.02812499925494194}}
+Timestamp: 5922
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6532846689224243, 'Height': 0.12043795734643936, 'Width': 0.02734375}}
+Timestamp: 5964
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6532846689224243, 'Height': 0.12043795734643936, 'Width': 0.02656250074505806}}
+Timestamp: 6047
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6532846689224243, 'Height': 0.12043795734643936, 'Width': 0.02578124962747097}}
+Timestamp: 6131
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6551094651222229, 'Height': 0.12043795734643936, 'Width': 0.02656250074505806}}
+Timestamp: 6172
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6551094651222229, 'Height': 0.11861313879489899, 'Width': 0.02578124962747097}}
+Timestamp: 6256
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6551094651222229, 'Height': 0.11861313879489899, 'Width': 0.02656250074505806}}
+Timestamp: 6297
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6976562738418579, 'Top': 0.6569343209266663, 'Height': 0.11861313879489899, 'Width': 0.02578124962747097}}
+Timestamp: 6381
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6514598727226257, 'Height': 0.12408759444952011, 'Width': 0.02500000037252903}}
+Timestamp: 6464
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6496350169181824, 'Height': 0.12591241300106049, 'Width': 0.02500000037252903}}
+Timestamp: 6506
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6514598727226257, 'Height': 0.12226277589797974, 'Width': 0.02500000037252903}}
+Timestamp: 6589
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6514598727226257, 'Height': 0.12043795734643936, 'Width': 0.02500000037252903}}
+Timestamp: 6631
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6496350169181824, 'Height': 0.12408759444952011, 'Width': 0.02578124962747097}}
+Timestamp: 6715
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6514598727226257, 'Height': 0.12043795734643936, 'Width': 0.02578124962747097}}
+Timestamp: 6798
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6551094651222229, 'Height': 0.11496350169181824, 'Width': 0.02578124962747097}}
+Timestamp: 6840
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6532846689224243, 'Height': 0.11678832024335861, 'Width': 0.02578124962747097}}
+Timestamp: 6923
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6514598727226257, 'Height': 0.11861313879489899, 'Width': 0.02500000037252903}}
+Timestamp: 6965
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6514598727226257, 'Height': 0.12043795734643936, 'Width': 0.02578124962747097}}
+Timestamp: 7048
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6478102207183838, 'Height': 0.12956205010414124, 'Width': 0.02578124962747097}}
+Timestamp: 7132
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6459854245185852, 'Height': 0.131386861205101, 'Width': 0.02578124962747097}}
+Timestamp: 7173
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6478102207183838, 'Height': 0.131386861205101, 'Width': 0.02500000037252903}}
+Timestamp: 7257
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.694531261920929, 'Top': 0.6496350169181824, 'Height': 0.131386861205101, 'Width': 0.02656250074505806}}
+Timestamp: 7298
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.694531261920929, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02500000037252903}}
+Timestamp: 7382
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6937500238418579, 'Top': 0.6532846689224243, 'Height': 0.12226277589797974, 'Width': 0.02500000037252903}}
+Timestamp: 7465
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6551094651222229, 'Height': 0.12043795734643936, 'Width': 0.02578124962747097}}
+Timestamp: 7507
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6532846689224243, 'Height': 0.12591241300106049, 'Width': 0.02500000037252903}}
+Timestamp: 7590
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6514598727226257, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 7632
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 7716
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6478102207183838, 'Height': 0.131386861205101, 'Width': 0.02421874925494194}}
+Timestamp: 7799
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6478102207183838, 'Height': 0.131386861205101, 'Width': 0.02500000037252903}}
+Timestamp: 7841
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 7924
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02500000037252903}}
+Timestamp: 7966
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6532846689224243, 'Height': 0.12408759444952011, 'Width': 0.02734375}}
+Timestamp: 8049
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6551094651222229, 'Height': 0.11678832024335861, 'Width': 0.02812499925494194}}
+Timestamp: 8133
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6937500238418579, 'Top': 0.6551094651222229, 'Height': 0.11678832024335861, 'Width': 0.02734375}}
+Timestamp: 8174
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6532846689224243, 'Height': 0.12226277589797974, 'Width': 0.02812499925494194}}
+Timestamp: 8258
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02812499925494194}}
+Timestamp: 8299
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6937500238418579, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 8383
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6937500238418579, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02578124962747097}}
+Timestamp: 8425
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02500000037252903}}
+Timestamp: 8508
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6496350169181824, 'Height': 0.12773722410202026, 'Width': 0.02421874925494194}}
+Timestamp: 8591
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 8633
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02500000037252903}}
+Timestamp: 8717
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02500000037252903}}
+Timestamp: 8758
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6514598727226257, 'Height': 0.12591241300106049, 'Width': 0.02578124962747097}}
+Timestamp: 8842
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02656250074505806}}
+Timestamp: 8925
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02734375}}
+Timestamp: 8967
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6496350169181824, 'Height': 0.12956205010414124, 'Width': 0.02812499925494194}}
+Timestamp: 9050
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6496350169181824, 'Height': 0.131386861205101, 'Width': 0.02812499925494194}}
+Timestamp: 9092
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02812499925494194}}
+Timestamp: 9175
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.13503649830818176, 'Width': 0.02812499925494194}}
+Timestamp: 9259
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.13503649830818176, 'Width': 0.02734375}}
+Timestamp: 9300
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6459854245185852, 'Height': 0.13686130940914154, 'Width': 0.02656250074505806}}
+Timestamp: 9384
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6459854245185852, 'Height': 0.13686130940914154, 'Width': 0.02578124962747097}}
+Timestamp: 9426
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6441605687141418, 'Height': 0.13686130940914154, 'Width': 0.02500000037252903}}
+Timestamp: 9509
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6423357725143433, 'Height': 0.1386861354112625, 'Width': 0.02578124962747097}}
+Timestamp: 9592
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6441605687141418, 'Height': 0.13686130940914154, 'Width': 0.02656250074505806}}
+Timestamp: 9634
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6459854245185852, 'Height': 0.13686130940914154, 'Width': 0.02656250074505806}}
+Timestamp: 9718
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.1332116723060608, 'Width': 0.02656250074505806}}
+Timestamp: 9759
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6532846689224243, 'Height': 0.12773722410202026, 'Width': 0.02656250074505806}}
+Timestamp: 9843
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6514598727226257, 'Height': 0.1332116723060608, 'Width': 0.02812499925494194}}
+Timestamp: 9926
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02734375}}
+Timestamp: 9968
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6478102207183838, 'Height': 0.13686130940914154, 'Width': 0.02656250074505806}}
+Timestamp: 10051
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6478102207183838, 'Height': 0.13503649830818176, 'Width': 0.02734375}}
+Timestamp: 10093
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02812499925494194}}
+Timestamp: 10176
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6890624761581421, 'Top': 0.6496350169181824, 'Height': 0.131386861205101, 'Width': 0.02734375}}
+Timestamp: 10260
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6890624761581421, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02734375}}
+Timestamp: 10301
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6890624761581421, 'Top': 0.6532846689224243, 'Height': 0.12956205010414124, 'Width': 0.02812499925494194}}
+Timestamp: 10385
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6514598727226257, 'Height': 0.131386861205101, 'Width': 0.02812499925494194}}
+Timestamp: 10427
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02656250074505806}}
+Timestamp: 10510
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.13503649830818176, 'Width': 0.02656250074505806}}
+Timestamp: 10593
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6459854245185852, 'Height': 0.1386861354112625, 'Width': 0.02578124962747097}}
+Timestamp: 10635
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6459854245185852, 'Height': 0.13686130940914154, 'Width': 0.02578124962747097}}
+Timestamp: 10719
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6459854245185852, 'Height': 0.13686130940914154, 'Width': 0.02578124962747097}}
+Timestamp: 10760
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6478102207183838, 'Height': 0.13503649830818176, 'Width': 0.02578124962747097}}
+Timestamp: 10844
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02734375}}
+Timestamp: 10927
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6514598727226257, 'Height': 0.131386861205101, 'Width': 0.02812499925494194}}
+Timestamp: 10969
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6532846689224243, 'Height': 0.12773722410202026, 'Width': 0.02734375}}
+Timestamp: 11052
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6514598727226257, 'Height': 0.131386861205101, 'Width': 0.02890625037252903}}
+Timestamp: 11094
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02734375}}
+Timestamp: 11177
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6478102207183838, 'Height': 0.13686130940914154, 'Width': 0.02812499925494194}}
+Timestamp: 11261
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6478102207183838, 'Height': 0.13686130940914154, 'Width': 0.02812499925494194}}
+Timestamp: 11302
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6478102207183838, 'Height': 0.13503649830818176, 'Width': 0.02812499925494194}}
+Timestamp: 11386
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02890625037252903}}
+Timestamp: 11428
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6532846689224243, 'Height': 0.131386861205101, 'Width': 0.03046875074505806}}
+Timestamp: 11511
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6890624761581421, 'Top': 0.6532846689224243, 'Height': 0.12773722410202026, 'Width': 0.02968749962747097}}
+Timestamp: 11594
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6890624761581421, 'Top': 0.6514598727226257, 'Height': 0.131386861205101, 'Width': 0.03046875074505806}}
+Timestamp: 11636
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02890625037252903}}
+Timestamp: 11720
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6478102207183838, 'Height': 0.1332116723060608, 'Width': 0.02734375}}
+Timestamp: 11761
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6478102207183838, 'Height': 0.13503649830818176, 'Width': 0.02812499925494194}}
+Timestamp: 11845
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6496350169181824, 'Height': 0.1332116723060608, 'Width': 0.02812499925494194}}
+Timestamp: 11928
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6496350169181824, 'Height': 0.13503649830818176, 'Width': 0.02890625037252903}}
+Timestamp: 11970
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6569343209266663, 'Height': 0.1405109465122223, 'Width': 0.02656250074505806}}
+Timestamp: 12053
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6569343209266663, 'Height': 0.1386861354112625, 'Width': 0.02578124962747097}}
+Timestamp: 12095
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6532846689224243, 'Height': 0.131386861205101, 'Width': 0.02890625037252903}}
+Timestamp: 12178
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6496350169181824, 'Height': 0.1386861354112625, 'Width': 0.02812499925494194}}
+Timestamp: 12262
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6496350169181824, 'Height': 0.13686130940914154, 'Width': 0.02812499925494194}}
+Timestamp: 12303
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6478102207183838, 'Height': 0.1332116723060608, 'Width': 0.02734375}}
+Timestamp: 12387
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6478102207183838, 'Height': 0.1332116723060608, 'Width': 0.02734375}}
+Timestamp: 12429
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6496350169181824, 'Height': 0.13503649830818176, 'Width': 0.02890625037252903}}
+Timestamp: 12512
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6514598727226257, 'Height': 0.1332116723060608, 'Width': 0.02812499925494194}}
+Timestamp: 12595
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6532846689224243, 'Height': 0.131386861205101, 'Width': 0.02890625037252903}}
+Timestamp: 12637
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6551094651222229, 'Height': 0.12773722410202026, 'Width': 0.02890625037252903}}
+Timestamp: 12721
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6587591171264648, 'Height': 0.13686130940914154, 'Width': 0.02812499925494194}}
+Timestamp: 12762
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6587591171264648, 'Height': 0.1386861354112625, 'Width': 0.02890625037252903}}
+Timestamp: 12846
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02812499925494194}}
+Timestamp: 12929
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6514598727226257, 'Height': 0.12773722410202026, 'Width': 0.02734375}}
+Timestamp: 12971
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6496350169181824, 'Height': 0.13503649830818176, 'Width': 0.02890625037252903}}
+Timestamp: 13054
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6514598727226257, 'Height': 0.13503649830818176, 'Width': 0.02812499925494194}}
+Timestamp: 13096
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6551094651222229, 'Height': 0.12956205010414124, 'Width': 0.02734375}}
+Timestamp: 13179
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6532846689224243, 'Height': 0.13503649830818176, 'Width': 0.02890625037252903}}
+Timestamp: 13263
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6532846689224243, 'Height': 0.13686130940914154, 'Width': 0.02890625037252903}}
+Timestamp: 13304
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6514598727226257, 'Height': 0.14233577251434326, 'Width': 0.02890625037252903}}
+Timestamp: 13388
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6514598727226257, 'Height': 0.14233577251434326, 'Width': 0.02890625037252903}}
+Timestamp: 13430
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6478102207183838, 'Height': 0.14598539471626282, 'Width': 0.02968749962747097}}
+Timestamp: 13513
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6496350169181824, 'Height': 0.1405109465122223, 'Width': 0.02968749962747097}}
+Timestamp: 13596
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6875, 'Top': 0.6496350169181824, 'Height': 0.14233577251434326, 'Width': 0.03046875074505806}}
+Timestamp: 13638
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6496350169181824, 'Height': 0.14233577251434326, 'Width': 0.02968749962747097}}
+Timestamp: 13722
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.688281238079071, 'Top': 0.6514598727226257, 'Height': 0.1386861354112625, 'Width': 0.02968749962747097}}
+Timestamp: 13763
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6890624761581421, 'Top': 0.6551094651222229, 'Height': 0.1332116723060608, 'Width': 0.02968749962747097}}
+Timestamp: 13847
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6514598727226257, 'Height': 0.1386861354112625, 'Width': 0.02812499925494194}}
+Timestamp: 13930
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6514598727226257, 'Height': 0.1386861354112625, 'Width': 0.02656250074505806}}
+Timestamp: 13972
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.14598539471626282, 'Width': 0.02734375}}
+Timestamp: 14055
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.14598539471626282, 'Width': 0.02734375}}
+Timestamp: 14097
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.14598539471626282, 'Width': 0.02734375}}
+Timestamp: 14180
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6496350169181824, 'Height': 0.14233577251434326, 'Width': 0.02734375}}
+Timestamp: 14264
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6496350169181824, 'Height': 0.14233577251434326, 'Width': 0.02656250074505806}}
+Timestamp: 14305
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6514598727226257, 'Height': 0.1405109465122223, 'Width': 0.02656250074505806}}
+Timestamp: 14389
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6514598727226257, 'Height': 0.1405109465122223, 'Width': 0.02656250074505806}}
+Timestamp: 14431
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6514598727226257, 'Height': 0.14416058361530304, 'Width': 0.02734375}}
+Timestamp: 14514
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6898437738418579, 'Top': 0.6496350169181824, 'Height': 0.14233577251434326, 'Width': 0.02734375}}
+Timestamp: 14597
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.690625011920929, 'Top': 0.6496350169181824, 'Height': 0.1405109465122223, 'Width': 0.02734375}}
+Timestamp: 14639
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6478102207183838, 'Height': 0.1386861354112625, 'Width': 0.02656250074505806}}
+Timestamp: 14723
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6496350169181824, 'Height': 0.1386861354112625, 'Width': 0.02656250074505806}}
+Timestamp: 14764
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69140625, 'Top': 0.6496350169181824, 'Height': 0.14233577251434326, 'Width': 0.02734375}}
+Timestamp: 14848
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6514598727226257, 'Height': 0.14233577251434326, 'Width': 0.02734375}}
+Timestamp: 14931
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.692187488079071, 'Top': 0.6514598727226257, 'Height': 0.14598539471626282, 'Width': 0.02734375}}
+Timestamp: 14973
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6937500238418579, 'Top': 0.6569343209266663, 'Height': 0.14233577251434326, 'Width': 0.02578124962747097}}
+Timestamp: 15056
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6929687261581421, 'Top': 0.6569343209266663, 'Height': 0.14416058361530304, 'Width': 0.02656250074505806}}
+Timestamp: 15098
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.694531261920929, 'Top': 0.6496350169181824, 'Height': 0.14416058361530304, 'Width': 0.02734375}}
+Timestamp: 15181
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6478102207183838, 'Height': 0.14416058361530304, 'Width': 0.02656250074505806}}
+Timestamp: 15265
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6478102207183838, 'Height': 0.14598539471626282, 'Width': 0.02734375}}
+Timestamp: 15306
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6496350169181824, 'Height': 0.14598539471626282, 'Width': 0.02734375}}
+Timestamp: 15390
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6496350169181824, 'Height': 0.14416058361530304, 'Width': 0.02734375}}
+Timestamp: 15432
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6532846689224243, 'Height': 0.1386861354112625, 'Width': 0.02734375}}
+Timestamp: 15515
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6569343209266663, 'Height': 0.14598539471626282, 'Width': 0.02421874925494194}}
+Timestamp: 15598
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6569343209266663, 'Height': 0.14598539471626282, 'Width': 0.02500000037252903}}
+Timestamp: 15640
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.694531261920929, 'Top': 0.6569343209266663, 'Height': 0.14416058361530304, 'Width': 0.02578124962747097}}
+Timestamp: 15724
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.694531261920929, 'Top': 0.6569343209266663, 'Height': 0.14233577251434326, 'Width': 0.02578124962747097}}
+Timestamp: 15765
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.694531261920929, 'Top': 0.6478102207183838, 'Height': 0.1405109465122223, 'Width': 0.02734375}}
+Timestamp: 15849
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.694531261920929, 'Top': 0.6496350169181824, 'Height': 0.1405109465122223, 'Width': 0.02734375}}
+Timestamp: 15932
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6953125, 'Top': 0.6496350169181824, 'Height': 0.14233577251434326, 'Width': 0.02656250074505806}}
+Timestamp: 15974
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6569343209266663, 'Height': 0.14233577251434326, 'Width': 0.02578124962747097}}
+Timestamp: 16057
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6587591171264648, 'Height': 0.14233577251434326, 'Width': 0.02734375}}
+Timestamp: 16099
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6587591171264648, 'Height': 0.14233577251434326, 'Width': 0.02734375}}
+Timestamp: 16182
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.696093738079071, 'Top': 0.6587591171264648, 'Height': 0.14233577251434326, 'Width': 0.02890625037252903}}
+Timestamp: 16266
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6968749761581421, 'Top': 0.6587591171264648, 'Height': 0.1405109465122223, 'Width': 0.02812499925494194}}
+Timestamp: 16307
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6532846689224243, 'Height': 0.13686130940914154, 'Width': 0.02968749962747097}}
+Timestamp: 16391
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6514598727226257, 'Height': 0.12956205010414124, 'Width': 0.02890625037252903}}
+Timestamp: 16433
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6496350169181824, 'Height': 0.13686130940914154, 'Width': 0.02890625037252903}}
+Timestamp: 16516
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6976562738418579, 'Top': 0.6496350169181824, 'Height': 0.13686130940914154, 'Width': 0.02968749962747097}}
+Timestamp: 16599
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6514598727226257, 'Height': 0.1405109465122223, 'Width': 0.02890625037252903}}
+Timestamp: 16641
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6532846689224243, 'Height': 0.15145985782146454, 'Width': 0.02812499925494194}}
+Timestamp: 16725
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.02734375}}
+Timestamp: 16766
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.6976562738418579, 'Top': 0.6532846689224243, 'Height': 0.1478102207183838, 'Width': 0.02968749962747097}}
+Timestamp: 16850
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.698437511920929, 'Top': 0.6514598727226257, 'Height': 0.14963503181934357, 'Width': 0.02968749962747097}}
+Timestamp: 16891
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6532846689224243, 'Height': 0.14963503181934357, 'Width': 0.02812499925494194}}
+Timestamp: 16975
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6514598727226257, 'Height': 0.1551094949245453, 'Width': 0.02812499925494194}}
+Timestamp: 17058
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6496350169181824, 'Height': 0.15328466892242432, 'Width': 0.03046875074505806}}
+Timestamp: 17100
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6532846689224243, 'Height': 0.15328466892242432, 'Width': 0.02890625037252903}}
+Timestamp: 17183
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.69921875, 'Top': 0.6551094651222229, 'Height': 0.15145985782146454, 'Width': 0.02968749962747097}}
+Timestamp: 17225
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7007812261581421, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.03046875074505806}}
+Timestamp: 17308
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7015625238418579, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.02890625037252903}}
+Timestamp: 17392
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7015625238418579, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.02890625037252903}}
+Timestamp: 17434
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.702343761920929, 'Top': 0.6532846689224243, 'Height': 0.15328466892242432, 'Width': 0.02812499925494194}}
+Timestamp: 17517
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.702343761920929, 'Top': 0.6532846689224243, 'Height': 0.15328466892242432, 'Width': 0.02812499925494194}}
+Timestamp: 17559
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.702343761920929, 'Top': 0.6496350169181824, 'Height': 0.15328466892242432, 'Width': 0.02968749962747097}}
+Timestamp: 17642
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.703125, 'Top': 0.6514598727226257, 'Height': 0.15328466892242432, 'Width': 0.02968749962747097}}
+Timestamp: 17726
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.703906238079071, 'Top': 0.6514598727226257, 'Height': 0.16058394312858582, 'Width': 0.02656250074505806}}
+Timestamp: 17767
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.703906238079071, 'Top': 0.6514598727226257, 'Height': 0.16058394312858582, 'Width': 0.02656250074505806}}
+Timestamp: 17851
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.703906238079071, 'Top': 0.6514598727226257, 'Height': 0.16058394312858582, 'Width': 0.02656250074505806}}
+Timestamp: 17892
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.703125, 'Top': 0.6532846689224243, 'Height': 0.15693430602550507, 'Width': 0.02812499925494194}}
+Timestamp: 17976
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.703125, 'Top': 0.6514598727226257, 'Height': 0.15693430602550507, 'Width': 0.02812499925494194}}
+Timestamp: 18059
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.702343761920929, 'Top': 0.6478102207183838, 'Height': 0.1551094949245453, 'Width': 0.03046875074505806}}
+Timestamp: 18101
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.707812488079071, 'Top': 0.6569343209266663, 'Height': 0.1478102207183838, 'Width': 0.02812499925494194}}
+Timestamp: 18435
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6551094651222229, 'Height': 0.1478102207183838, 'Width': 0.02890625037252903}}
+Timestamp: 18518
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6532846689224243, 'Height': 0.14963503181934357, 'Width': 0.03046875074505806}}
+Timestamp: 18560
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6423357725143433, 'Height': 0.16605839133262634, 'Width': 0.03046875074505806}}
+Timestamp: 18643
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6478102207183838, 'Height': 0.15145985782146454, 'Width': 0.03046875074505806}}
+Timestamp: 18727
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6514598727226257, 'Height': 0.1405109465122223, 'Width': 0.03046875074505806}}
+Timestamp: 18768
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6496350169181824, 'Height': 0.15145985782146454, 'Width': 0.03125}}
+Timestamp: 18852
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6551094651222229, 'Height': 0.1478102207183838, 'Width': 0.02890625037252903}}
+Timestamp: 18893
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6551094651222229, 'Height': 0.1478102207183838, 'Width': 0.02890625037252903}}
+Timestamp: 18977
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.02968749962747097}}
+Timestamp: 19060
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7093750238418579, 'Top': 0.6532846689224243, 'Height': 0.15145985782146454, 'Width': 0.03046875074505806}}
+Timestamp: 19102
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.707812488079071, 'Top': 0.6441605687141418, 'Height': 0.16058394312858582, 'Width': 0.03437500074505806}}
+Timestamp: 19185
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.70703125, 'Top': 0.6441605687141418, 'Height': 0.15875911712646484, 'Width': 0.03515625}}
+Timestamp: 19227
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7085937261581421, 'Top': 0.6532846689224243, 'Height': 0.14963503181934357, 'Width': 0.03203124925494194}}
+Timestamp: 19310
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.710156261920929, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.03046875074505806}}
+Timestamp: 19394
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7109375, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.02968749962747097}}
+Timestamp: 19436
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.711718738079071, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.02968749962747097}}
+Timestamp: 19519
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.711718738079071, 'Top': 0.6587591171264648, 'Height': 0.14598539471626282, 'Width': 0.03046875074505806}}
+Timestamp: 19561
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7132812738418579, 'Top': 0.6587591171264648, 'Height': 0.14233577251434326, 'Width': 0.02968749962747097}}
+Timestamp: 19644
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.71484375, 'Top': 0.6569343209266663, 'Height': 0.14598539471626282, 'Width': 0.02812499925494194}}
+Timestamp: 19728
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.71484375, 'Top': 0.6569343209266663, 'Height': 0.14598539471626282, 'Width': 0.02812499925494194}}
+Timestamp: 19769
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.71484375, 'Top': 0.6551094651222229, 'Height': 0.14963503181934357, 'Width': 0.03046875074505806}}
+Timestamp: 19853
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.715624988079071, 'Top': 0.6551094651222229, 'Height': 0.15328466892242432, 'Width': 0.02968749962747097}}
+Timestamp: 19894
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.717968761920929, 'Top': 0.6532846689224243, 'Height': 0.1551094949245453, 'Width': 0.02734375}}
+Timestamp: 19978
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.719531238079071, 'Top': 0.6551094651222229, 'Height': 0.1551094949245453, 'Width': 0.02656250074505806}}
+Timestamp: 20061
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.719531238079071, 'Top': 0.6551094651222229, 'Height': 0.1551094949245453, 'Width': 0.02656250074505806}}
+Timestamp: 20103
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.719531238079071, 'Top': 0.6569343209266663, 'Height': 0.1551094949245453, 'Width': 0.02656250074505806}}
+Timestamp: 20186
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.719531238079071, 'Top': 0.6569343209266663, 'Height': 0.15328466892242432, 'Width': 0.02656250074505806}}
+Timestamp: 20228
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.719531238079071, 'Top': 0.6551094651222229, 'Height': 0.1551094949245453, 'Width': 0.02734375}}
+Timestamp: 20311
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.71875, 'Top': 0.6423357725143433, 'Height': 0.16788321733474731, 'Width': 0.03046875074505806}}
+Timestamp: 20395
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7203124761581421, 'Top': 0.6532846689224243, 'Height': 0.14963503181934357, 'Width': 0.02734375}}
+Timestamp: 20437
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7203124761581421, 'Top': 0.6569343209266663, 'Height': 0.1478102207183838, 'Width': 0.02968749962747097}}
+Timestamp: 20520
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7210937738418579, 'Top': 0.6587591171264648, 'Height': 0.1478102207183838, 'Width': 0.02968749962747097}}
+Timestamp: 20562
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.721875011920929, 'Top': 0.6569343209266663, 'Height': 0.15145985782146454, 'Width': 0.03046875074505806}}
+Timestamp: 20645
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7242187261581421, 'Top': 0.6587591171264648, 'Height': 0.14416058361530304, 'Width': 0.02734375}}
+Timestamp: 20729
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7242187261581421, 'Top': 0.6587591171264648, 'Height': 0.14598539471626282, 'Width': 0.02812499925494194}}
+Timestamp: 20770
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7250000238418579, 'Top': 0.6551094651222229, 'Height': 0.1478102207183838, 'Width': 0.02890625037252903}}
+Timestamp: 20854
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7250000238418579, 'Top': 0.6532846689224243, 'Height': 0.15145985782146454, 'Width': 0.02890625037252903}}
+Timestamp: 20895
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7250000238418579, 'Top': 0.6405109763145447, 'Height': 0.17153283953666687, 'Width': 0.03125}}
+Timestamp: 20979
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.725781261920929, 'Top': 0.6423357725143433, 'Height': 0.17153283953666687, 'Width': 0.03125}}
+Timestamp: 21062
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7250000238418579, 'Top': 0.6423357725143433, 'Height': 0.17518247663974762, 'Width': 0.03281249850988388}}
+Timestamp: 21104
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.725781261920929, 'Top': 0.6532846689224243, 'Height': 0.15875911712646484, 'Width': 0.03046875074505806}}
+Timestamp: 21187
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.725781261920929, 'Top': 0.6551094651222229, 'Height': 0.1551094949245453, 'Width': 0.03046875074505806}}
+Timestamp: 21229
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.725781261920929, 'Top': 0.6551094651222229, 'Height': 0.15875911712646484, 'Width': 0.03046875074505806}}
+Timestamp: 21312
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.725781261920929, 'Top': 0.6551094651222229, 'Height': 0.16058394312858582, 'Width': 0.03125}}
+Timestamp: 21396
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.725781261920929, 'Top': 0.6551094651222229, 'Height': 0.16058394312858582, 'Width': 0.03125}}
+Timestamp: 21438
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.725781261920929, 'Top': 0.6532846689224243, 'Height': 0.1624087542295456, 'Width': 0.03125}}
+Timestamp: 21521
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7265625, 'Top': 0.6514598727226257, 'Height': 0.16605839133262634, 'Width': 0.03046875074505806}}
+Timestamp: 21563
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7265625, 'Top': 0.6423357725143433, 'Height': 0.18065693974494934, 'Width': 0.03359375149011612}}
+Timestamp: 21646
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7281249761581421, 'Top': 0.6496350169181824, 'Height': 0.16788321733474731, 'Width': 0.03046875074505806}}
+Timestamp: 21730
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7289062738418579, 'Top': 0.6514598727226257, 'Height': 0.16423358023166656, 'Width': 0.02968749962747097}}
+Timestamp: 21771
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.734375, 'Top': 0.6405109763145447, 'Height': 0.17335766553878784, 'Width': 0.03203124925494194}}
+Timestamp: 22188
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.735156238079071, 'Top': 0.6405109763145447, 'Height': 0.17153283953666687, 'Width': 0.03125}}
+Timestamp: 22230
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7359374761581421, 'Top': 0.6405109763145447, 'Height': 0.17153283953666687, 'Width': 0.03046875074505806}}
+Timestamp: 22313
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7359374761581421, 'Top': 0.6441605687141418, 'Height': 0.1697080284357071, 'Width': 0.03125}}
+Timestamp: 22397
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7359374761581421, 'Top': 0.6441605687141418, 'Height': 0.16788321733474731, 'Width': 0.03125}}
+Timestamp: 22439
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7359374761581421, 'Top': 0.6459854245185852, 'Height': 0.17153283953666687, 'Width': 0.03203124925494194}}
+Timestamp: 22522
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.737500011920929, 'Top': 0.6532846689224243, 'Height': 0.15693430602550507, 'Width': 0.02890625037252903}}
+Timestamp: 22564
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.73828125, 'Top': 0.6514598727226257, 'Height': 0.16058394312858582, 'Width': 0.02812499925494194}}
+Timestamp: 22647
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7359374761581421, 'Top': 0.6423357725143433, 'Height': 0.17335766553878784, 'Width': 0.03203124925494194}}
+Timestamp: 22731
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7359374761581421, 'Top': 0.6423357725143433, 'Height': 0.17335766553878784, 'Width': 0.03281249850988388}}
+Timestamp: 22772
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.734375, 'Top': 0.6423357725143433, 'Height': 0.1697080284357071, 'Width': 0.03515625}}
+Timestamp: 22856
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7359374761581421, 'Top': 0.6551094651222229, 'Height': 0.15328466892242432, 'Width': 0.03203124925494194}}
+Timestamp: 22897
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7367187738418579, 'Top': 0.6569343209266663, 'Height': 0.14963503181934357, 'Width': 0.03281249850988388}}
+Timestamp: 22981
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.73828125, 'Top': 0.6441605687141418, 'Height': 0.16605839133262634, 'Width': 0.03203124925494194}}
+Timestamp: 23064
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.739062488079071, 'Top': 0.6569343209266663, 'Height': 0.1478102207183838, 'Width': 0.03046875074505806}}
+Timestamp: 23106
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7367187738418579, 'Top': 0.6569343209266663, 'Height': 0.1551094949245453, 'Width': 0.03437500074505806}}
+Timestamp: 23189
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.737500011920929, 'Top': 0.6551094651222229, 'Height': 0.15328466892242432, 'Width': 0.03359375149011612}}
+Timestamp: 23231
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.73828125, 'Top': 0.6405109763145447, 'Height': 0.17335766553878784, 'Width': 0.03437500074505806}}
+Timestamp: 23314
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.739062488079071, 'Top': 0.6405109763145447, 'Height': 0.17153283953666687, 'Width': 0.03359375149011612}}
+Timestamp: 23398
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7398437261581421, 'Top': 0.6405109763145447, 'Height': 0.17153283953666687, 'Width': 0.03437500074505806}}
+Timestamp: 23440
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.741406261920929, 'Top': 0.6551094651222229, 'Height': 0.15328466892242432, 'Width': 0.03125}}
+Timestamp: 23523
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.741406261920929, 'Top': 0.6551094651222229, 'Height': 0.1551094949245453, 'Width': 0.03046875074505806}}
+Timestamp: 23565
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.741406261920929, 'Top': 0.6551094651222229, 'Height': 0.15875911712646484, 'Width': 0.02968749962747097}}
+Timestamp: 23648
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.741406261920929, 'Top': 0.6532846689224243, 'Height': 0.16058394312858582, 'Width': 0.02968749962747097}}
+Timestamp: 23732
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.741406261920929, 'Top': 0.6532846689224243, 'Height': 0.16058394312858582, 'Width': 0.02968749962747097}}
+Timestamp: 23773
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7421875, 'Top': 0.6532846689224243, 'Height': 0.15693430602550507, 'Width': 0.02890625037252903}}
+Timestamp: 23857
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.742968738079071, 'Top': 0.6532846689224243, 'Height': 0.15328466892242432, 'Width': 0.02812499925494194}}
+Timestamp: 23898
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.742968738079071, 'Top': 0.6532846689224243, 'Height': 0.1551094949245453, 'Width': 0.02968749962747097}}
+Timestamp: 23982
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.741406261920929, 'Top': 0.6551094651222229, 'Height': 0.15693430602550507, 'Width': 0.03203124925494194}}
+Timestamp: 24065
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7421875, 'Top': 0.6569343209266663, 'Height': 0.15693430602550507, 'Width': 0.03203124925494194}}
+Timestamp: 24107
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.741406261920929, 'Top': 0.6569343209266663, 'Height': 0.1551094949245453, 'Width': 0.03359375149011612}}
+Timestamp: 24190
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7406250238418579, 'Top': 0.6551094651222229, 'Height': 0.15693430602550507, 'Width': 0.03515625}}
+Timestamp: 24232
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.742968738079071, 'Top': 0.6551094651222229, 'Height': 0.16058394312858582, 'Width': 0.03359375149011612}}
+Timestamp: 24315
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7437499761581421, 'Top': 0.6532846689224243, 'Height': 0.1624087542295456, 'Width': 0.03281249850988388}}
+Timestamp: 24399
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7445312738418579, 'Top': 0.6514598727226257, 'Height': 0.1624087542295456, 'Width': 0.03203124925494194}}
+Timestamp: 24441
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7445312738418579, 'Top': 0.6514598727226257, 'Height': 0.1624087542295456, 'Width': 0.03203124925494194}}
+Timestamp: 24524
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.745312511920929, 'Top': 0.6514598727226257, 'Height': 0.16605839133262634, 'Width': 0.03125}}
+Timestamp: 24566
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6532846689224243, 'Height': 0.16423358023166656, 'Width': 0.03046875074505806}}
+Timestamp: 24649
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6551094651222229, 'Height': 0.16058394312858582, 'Width': 0.03046875074505806}}
+Timestamp: 24733
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6551094651222229, 'Height': 0.16058394312858582, 'Width': 0.03046875074505806}}
+Timestamp: 24774
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6551094651222229, 'Height': 0.16058394312858582, 'Width': 0.03046875074505806}}
+Timestamp: 24858
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.745312511920929, 'Top': 0.6532846689224243, 'Height': 0.16423358023166656, 'Width': 0.03125}}
+Timestamp: 24899
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6514598727226257, 'Height': 0.16058394312858582, 'Width': 0.03046875074505806}}
+Timestamp: 24983
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6514598727226257, 'Height': 0.15875911712646484, 'Width': 0.03046875074505806}}
+Timestamp: 25024
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6532846689224243, 'Height': 0.15875911712646484, 'Width': 0.03125}}
+Timestamp: 25108
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.746874988079071, 'Top': 0.6551094651222229, 'Height': 0.15693430602550507, 'Width': 0.03203124925494194}}
+Timestamp: 25191
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.74609375, 'Top': 0.6551094651222229, 'Height': 0.16058394312858582, 'Width': 0.03437500074505806}}
+Timestamp: 25233
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.746874988079071, 'Top': 0.6569343209266663, 'Height': 0.15875911712646484, 'Width': 0.03437500074505806}}
+Timestamp: 25316
+
+h264
+25943
+QuickTime / MOV
+23.976028442382812
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7484375238418579, 'Top': 0.6551094651222229, 'Height': 0.15693430602550507, 'Width': 0.03203124925494194}}
+Timestamp: 25358
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.749218761920929, 'Top': 0.6532846689224243, 'Height': 0.16423358023166656, 'Width': 0.03281249850988388}}
+Timestamp: 25442
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.749218761920929, 'Top': 0.6532846689224243, 'Height': 0.16423358023166656, 'Width': 0.03281249850988388}}
+Timestamp: 25525
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.75, 'Top': 0.6514598727226257, 'Height': 0.16423358023166656, 'Width': 0.03203124925494194}}
+Timestamp: 25567
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.749218761920929, 'Top': 0.6423357725143433, 'Height': 0.17518247663974762, 'Width': 0.03515625}}
+Timestamp: 25650
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.749218761920929, 'Top': 0.6405109763145447, 'Height': 0.1770073026418686, 'Width': 0.03515625}}
+Timestamp: 25692
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.7484375238418579, 'Top': 0.6405109763145447, 'Height': 0.18248175084590912, 'Width': 0.03515625}}
+Timestamp: 25775
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.750781238079071, 'Top': 0.6532846689224243, 'Height': 0.15875911712646484, 'Width': 0.03125}}
+Timestamp: 25859
+
+Index: 0
+{'Index': 0, 'BoundingBox': {'Left': 0.750781238079071, 'Top': 0.6551094651222229, 'Height': 0.15693430602550507, 'Width': 0.03125}}
+Timestamp: 25900
+
+done
