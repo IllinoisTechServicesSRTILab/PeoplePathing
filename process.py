@@ -5,6 +5,7 @@ import boto3
 import json
 import sys
 import json
+import cv2
 
 
 class VideoDetect:
@@ -30,6 +31,8 @@ class VideoDetect:
 
         jobFound = False
         sqs = boto3.client('sqs')
+        # self.GetResultsPersons(self.jobId)
+        # return
 
         # =====================================
         response = self.rek.start_person_tracking(Video={'S3Object': {'Bucket': self.bucket, 'Name': self.video}},
@@ -85,7 +88,7 @@ class VideoDetect:
             response = self.rek.get_label_detection(JobId=jobId,
                                                     MaxResults=maxResults,
                                                     NextToken=paginationToken,
-                                                    SortBy='INDEX')
+                                                    SortBy='TIMESTAMP')
 
             print(response['VideoMetadata']['Codec'])
             print(str(response['VideoMetadata']['DurationMillis']))
@@ -126,27 +129,68 @@ class VideoDetect:
         maxResults = 10
         paginationToken = ''
         finished = False
+        first_page = True
+        cap = cv2.VideoCapture(self.video)
+ 
+        # Check if camera opened successfully
+        if (cap.isOpened() == False): 
+            print("Unable to read video file:")
+        
+        # Default resolutions of the frame are obtained.The default resolutions are system dependent.
+        # We convert the resolutions from float to integer.
+        frame_width = int(cap.get(3))
+        frame_height = int(cap.get(4))
+
+        time = 0
+        millis_per_frame = 40   # Millis per frame in a 25 fps video
 
         while finished == False:
             response = self.rek.get_person_tracking(JobId=jobId,
                                                     MaxResults=maxResults,
                                                     NextToken=paginationToken)
 
-            print(response['VideoMetadata']['Codec'])
-            print(str(response['VideoMetadata']['DurationMillis']))
-            print(response['VideoMetadata']['Format'])
-            print(response['VideoMetadata']['FrameRate'])
+            if first_page:
+                out = cv2.VideoWriter(self.video[:self.video.index('.')] + '_processed.mp4', cv2.VideoWriter_fourcc(*'MP4V'), int(response['VideoMetadata']['FrameRate']), (frame_width,frame_height))
+                millis_per_frame = int(1000 / int(response['VideoMetadata']['FrameRate']))
+                first_page = False
 
             for personDetection in response['Persons']:
-                print('Index: ' + str(personDetection['Person']['Index']))
-                print(str(personDetection['Person']))
-                print('Timestamp: ' + str(personDetection['Timestamp']))
-                print()
+                box = personDetection['Person']['BoundingBox']
+                x1 = int(box['Left'] * frame_width)
+                y1 = int(box['Top'] * frame_height)
+                x2 = int(x1 + (box['Width'] * frame_width))
+                y2 = int(y1 + (box['Height'] * frame_height))
+                timestamp = personDetection['Timestamp'] # In millis from beginning of video
+
+                while(time < timestamp):
+                    ret, frame = cap.read()
+                    if ret == False:
+                        finished = True
+                        break
+
+                    time += millis_per_frame
+                    out.write(frame)
+                
+                ret, frame = cap.read()
+                if ret == True:
+                    cv2.rectangle(frame,(x1,y1),(x2,y2),(0,255,0),3)
+                    time += millis_per_frame
+                    out.write(frame)
+                else:
+                    finished = True
+                    break
 
             if 'NextToken' in response:
                 paginationToken = response['NextToken']
             else:
                 finished = True
+        
+        # When everything done, release the video capture and video write objects
+        cap.release()
+        out.release()
+        
+        # Closes all the frames
+        cv2.destroyAllWindows()
 
 
 if __name__ == "__main__":
