@@ -7,6 +7,7 @@ import sys
 import json
 import cv2
 import time
+import random
 
 
 class VideoDetect:
@@ -197,7 +198,8 @@ class VideoDetect:
                     x2 = int(x1 + (box['Width'] * frame_width))
                     y2 = int(y1 + (box['Height'] * frame_height))
                     timestamp = personDetection['Timestamp'] # In millis from beginning of video
-                    cv2.rectangle(frame,(x1,y1),(x2,y2),(0,255,0),3)
+                    random.seed(personDetection['Person']['Index'])
+                    cv2.rectangle(frame,(x1,y1),(x2,y2),(random.randint(0, 255),random.randint(0, 255),random.randint(0, 255)),3)
 
                     if i + 1 >= num_persons or persons[i + 1]['Timestamp'] != timestamp:
                         break
