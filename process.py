@@ -6,6 +6,7 @@ import json
 import sys
 import json
 import cv2
+import time
 
 
 class VideoDetect:
@@ -40,22 +41,25 @@ class VideoDetect:
         # =====================================
         print('Start Job Id: ' + response['JobId'])
         dotLine = 0
+        print('Waiting for AWS Rekognition to process video', end='')
         while jobFound == False:
             sqsResponse = sqs.receive_message(QueueUrl=self.queueUrl, MessageAttributeNames=['ALL'],
                                               MaxNumberOfMessages=10)
 
             if sqsResponse:
-
                 if 'Messages' not in sqsResponse:
-                    if dotLine < 20:
+                    if dotLine < 5:
                         print('.', end='')
                         dotLine = dotLine+1
                     else:
-                        print()
+                        print('\rWaiting for AWS Rekognition to process video', end='')
                         dotLine = 0
+                    
+                    time.sleep(1)
                     sys.stdout.flush()
                     continue
-
+                
+                print()
                 for message in sqsResponse['Messages']:
                     notification = json.loads(message['Body'])
                     rekMessage = json.loads(notification['Message'])
@@ -126,6 +130,7 @@ class VideoDetect:
                     finished = True
 
     def GetResultsPersons(self, jobId):
+        print('Getting rekognition results')
         maxResults = 10
         paginationToken = ''
         finished = False
@@ -143,47 +148,68 @@ class VideoDetect:
 
         time = 0
         millis_per_frame = 40   # Millis per frame in a 25 fps video
+        ret, frame = None, None
+        prev_timestamp = 0
 
+        persons = []
         while finished == False:
             response = self.rek.get_person_tracking(JobId=jobId,
                                                     MaxResults=maxResults,
-                                                    NextToken=paginationToken)
+                                                    NextToken=paginationToken,
+                                                    SortBy='TIMESTAMP')
 
             if first_page:
-                out = cv2.VideoWriter(self.video[:self.video.index('.')] + '_processed.mp4', cv2.VideoWriter_fourcc(*'MP4V'), int(response['VideoMetadata']['FrameRate']), (frame_width,frame_height))
+                out = cv2.VideoWriter(self.video[:self.video.index('.')] + '_processed.mp4', cv2.VideoWriter_fourcc(*'mp4v'), int(response['VideoMetadata']['FrameRate']), (frame_width,frame_height))
                 millis_per_frame = int(1000 / int(response['VideoMetadata']['FrameRate']))
                 first_page = False
 
-            for personDetection in response['Persons']:
-                box = personDetection['Person']['BoundingBox']
-                x1 = int(box['Left'] * frame_width)
-                y1 = int(box['Top'] * frame_height)
-                x2 = int(x1 + (box['Width'] * frame_width))
-                y2 = int(y1 + (box['Height'] * frame_height))
-                timestamp = personDetection['Timestamp'] # In millis from beginning of video
-
-                while(time < timestamp):
-                    ret, frame = cap.read()
-                    if ret == False:
-                        finished = True
-                        break
-
-                    time += millis_per_frame
-                    out.write(frame)
-                
-                ret, frame = cap.read()
-                if ret == True:
-                    cv2.rectangle(frame,(x1,y1),(x2,y2),(0,255,0),3)
-                    time += millis_per_frame
-                    out.write(frame)
-                else:
-                    finished = True
-                    break
-
+            persons.extend(response['Persons'])
             if 'NextToken' in response:
                 paginationToken = response['NextToken']
             else:
                 finished = True
+
+
+        num_persons = len(persons)
+        i = 0
+        print('Writing new processed video.')
+        while i < num_persons:
+            personDetection = persons[i]
+            # print(personDetection)
+            timestamp = personDetection['Timestamp'] # In millis from beginning of video
+
+            while(time < timestamp):
+                ret, frame = cap.read()
+                if ret == False:
+                    break
+
+                time += millis_per_frame
+                out.write(frame)
+            
+
+            ret, frame = cap.read()
+            if ret == True:
+                while True: 
+                    personDetection = persons[i]
+                    box = personDetection['Person']['BoundingBox']
+                    x1 = int(box['Left'] * frame_width)
+                    y1 = int(box['Top'] * frame_height)
+                    x2 = int(x1 + (box['Width'] * frame_width))
+                    y2 = int(y1 + (box['Height'] * frame_height))
+                    timestamp = personDetection['Timestamp'] # In millis from beginning of video
+                    cv2.rectangle(frame,(x1,y1),(x2,y2),(0,255,0),3)
+
+                    if i + 1 >= num_persons or persons[i + 1]['Timestamp'] != timestamp:
+                        break
+                    i += 1
+                    
+
+                time += millis_per_frame
+                out.write(frame)
+            else:
+                break
+
+            i += 1
         
         # When everything done, release the video capture and video write objects
         cap.release()
@@ -194,6 +220,5 @@ class VideoDetect:
 
 
 if __name__ == "__main__":
-
     analyzer = VideoDetect()
     analyzer.main()
